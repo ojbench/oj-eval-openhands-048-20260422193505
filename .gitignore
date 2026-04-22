@@ -8,3 +8,10 @@
 build/
 dist/
 *.log
+
+# Python cache
+__pycache__/
+submit_acmoj/__pycache__/
+# Local test harness
+test.cpp
+test_bin
