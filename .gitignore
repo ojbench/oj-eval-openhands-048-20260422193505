@@ -1,0 +1,10 @@
+# Ignore common artifacts
+*.o
+*.out
+*.exe
+.DS_Store
+.vscode/
+.idea/
+build/
+dist/
+*.log
